@@ -68,10 +68,22 @@ cd ../frontend && npm install
 - 🎨 Improve UI/UX for smoother interaction and user experience.  
 
 ---
+## 🤝 Contributing  
+
+Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request.  
+
+1️⃣ Fork the repository  
+2️⃣ Create a new branch (`git checkout -b feature-branch`)  
+3️⃣ Commit your changes (`git commit -m "Add new feature"`)  
+4️⃣ Push to the branch (`git push origin feature-branch`)  
+5️⃣ Open a Pull Request  
+
+---
 
 ## 📜 License  
 
-This project is open-source. Use any license you prefer (MIT, Apache, etc.).  
+This project is licensed under the **MIT License** – feel free to use, modify, and distribute it!  
+
 
 
 ### 1️⃣ Clone the repository  
