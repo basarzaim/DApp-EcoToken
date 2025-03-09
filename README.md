@@ -36,3 +36,46 @@ DApp-EcoToken/
 │── frontend/               # Frontend (React)
 │── .gitignore
 │── README.md
+```
+## 🔧 Prerequisites  
+
+- **Node.js** (LTS version recommended)  
+- **npm** (or **yarn**)  
+- **Truffle** (or **Hardhat**) for smart contract deployment  
+- **Ganache** or a testnet (e.g., Ropsten, Goerli, Mumbai, etc.)  
+
+---
+
+## 🔧 Install Dependencies  
+
+For each folder (**backend**, **contracts**, **frontend**), install the required dependencies:  
+
+```sh
+cd backend && npm install  
+cd ../contracts && npm install  
+cd ../frontend && npm install  
+```
+
+## ❗ Known Issues & Future Plans  
+
+- ✅ **Integration:** Backend and frontend are unfinished, so they don’t interact with contracts yet.  
+- ✅ **Smart Contracts:** Deployed and tested—minting, transferring, and verification work.  
+
+### 🚀 Roadmap  
+
+- 🔗 Connect backend to smart contracts via Web3.  
+- 🛠️ Add backend endpoints for user token actions.  
+- 🎨 Improve UI/UX for smoother interaction and user experience.  
+
+---
+
+## 📜 License  
+
+This project is open-source. Use any license you prefer (MIT, Apache, etc.).  
+
+
+### 1️⃣ Clone the repository  
+
+```sh
+git clone https://github.com/basarzaim/DApp-EcoToken.git
+cd DApp-EcoToken
